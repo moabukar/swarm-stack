@@ -5,3 +5,4 @@
 .terraform.d
 *.retry
 ansible/hosts
+.DS_Store
